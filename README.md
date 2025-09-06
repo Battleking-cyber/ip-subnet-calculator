@@ -12,3 +12,6 @@ A professional Bash utility to calculate **network information** and perform **s
 ## 📦 Usage
 ```bash
 ./ip_finder.sh
+Install on RedHat/CentOS/Fedora:
+sudo yum install ipcalc -y
+
